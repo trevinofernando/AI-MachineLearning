@@ -1,5 +1,5 @@
 # AI-MachineLearning
-In this repo I have notebooks made in Google Colab where I worked on some of my Machine Learning school project.
+In this repo I have notebooks made in Google Colab where I worked on some of my Machine Learning school projects.
 
 # HW 1
 On this Folder you can find:
