@@ -4,7 +4,7 @@ In this repo I have notebooks made in Google Colab where I worked on some of my 
 # HW 1
 On this Folder you can find:
 ### Part 1
-* 3D graph plots and density and contour plots with their local minimum, maximum and Saddle points marked.
+* 3D graph plots and density contour plots with their local minimum, maximum and Saddle points marked.
 ### Part 2
 * A notebook for solving linear regression using stochastic gradient descent 
 ### Part 3
